@@ -1,0 +1,1 @@
+pyinstaller --onefile --name=RoWebhookFucker --icon=rofucker.ico Main.py
